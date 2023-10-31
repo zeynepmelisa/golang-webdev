@@ -1,0 +1,21 @@
+body {
+    background-image: url("/steady/sale.png");
+    min-height: 140%;
+    background-size: cover;
+    background-blend-mode: overlay; 
+    }
+
+.ana {
+    font-size: 2rem;
+    font-family: 'Arial', Tahoma, Geneva, Times New Roman, sans-serif;
+    color: darkgreen;
+    }
+    
+.center {
+    height: 100vh; 
+    justify-content: center;
+    display: flex; 
+    align-items: center;
+} 
+
+    
